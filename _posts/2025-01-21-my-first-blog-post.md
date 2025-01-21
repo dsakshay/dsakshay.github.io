@@ -26,4 +26,4 @@ Thank you for reading, and feel free to reach out if you have any questions or i
 ---
 
 *Follow My Journey*  
-Stay connected with me on [GitHub](https://github.com/your-username) or [LinkedIn](https://linkedin.com/in/your-profile).
+Stay connected with me on [GitHub](https://github.com/dsakshay) or [LinkedIn](https://www.linkedin.com/in/akshay1212/).
