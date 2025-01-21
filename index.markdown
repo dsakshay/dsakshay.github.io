@@ -1,6 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: post
+title:  "Welcome to My Blog!"
+date:   2025-01-21
 ---
+Hi, I'm Akshay
+
+I'm passionate about robotics, open source and programming. Through this blog, I'll share my journey, projects, and potential tips to help you explore the fascinating world of robotics and software development. 
+
+## Recent Posts
+- [My First Blog Post](./_posts/2025-01-21-my-first-blog-post.md)
+
+Stay tuned for more updates.
