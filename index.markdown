@@ -9,5 +9,6 @@ I'm passionate about robotics, open source and programming. Through this blog, I
 
 ## Recent Posts
 - [My First Blog Post](./_posts/2025-01-21-my-first-blog-post.md)
+- [My Second Blog Post](./_posts/2025-03-06-my-second-blog-post.md)
 
 Stay tuned for more updates.
